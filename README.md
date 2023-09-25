@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naytasplace
 - 👀 I’m interested in Data Analyst courses for now
 - 🌱 I’m currently learning Data Analyst courses
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects for beginners in SQL, PowerBI and Python 
 - 📫 How to reach me ...
 
 <!---
